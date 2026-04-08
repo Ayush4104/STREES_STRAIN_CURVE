@@ -100,7 +100,7 @@ python python_code_for_compression_test.py
 ## 👨‍💻 Author
 
 **Ayush**
-IIT BHILAI MECHANICAL ENGINEERING 
+**IIT BHILAI MECHANICAL ENGINEERING** 
 
 ---
 
